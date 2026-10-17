@@ -62,4 +62,4 @@ Estou profundamente focado em **arquitetura, performance, código limpo e soluç
 
 ---
 
-![Snake animation](https://github.com/alexandrecmlopes/alexandrecmlopes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/alexandrecmlopes/alexandrecmlopes/output/github-contribution-grid-snake.svg)
