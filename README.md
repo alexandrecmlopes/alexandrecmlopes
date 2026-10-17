@@ -61,3 +61,5 @@ Estou profundamente focado em **arquitetura, performance, código limpo e soluç
 > It's about building solutions that scale, last, and generate real value."_
 
 ---
+
+![Snake animation](https://github.com/alexandrecmlopes/alexandrecmlopes/blob/output/github-contribution-grid-snake.svg)
